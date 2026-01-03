@@ -21,6 +21,18 @@ python app.py
 ```
 <br>
 <br>
+## 🧠 Approach
+- Data preprocessing
+- Feature engineering
+- Model / logic used
+- Backend/API design
+
+## ⚙️ Tech Stack
+- Python
+- Flask
+- SQL
+- scikit-learn
+(mention only what you actually used)
 
 ## Preview
 <img src='https://github.com/dheerajsaroha/House-price-prediction-using-flask-main/blob/main/static/images/form.png'></img>
@@ -36,3 +48,4 @@ MIT License
 <br>
 
 ### Thank you
+
